@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：刘威
+#### 学历：本科毕业
+#### 学校：福州大学信息与计算专业
+#### 邮箱：anshen.lw@qq.com
+#### 地址：武汉
 
-You can use the [editor on GitHub](https://github.com/anshenLW/anshenLW.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### 最新消息
+- 最近准备参加百度的NLP比赛
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 研究方向
+- 自然语言处理
+- ocr文字识别
+- 深度学习
 
-### Markdown
+### 项目研究
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 中电福富
+- **AI舆情分析**
+项目描述：**
+- **地址信息抽取结构化**
+项目描述：**
+- **营业执照ocr识别**
+项目描述：**
+- **智慧机房**
+项目描述：**
+- ****
+项目描述：**
+#### 亿鑫海
+- **电塔灾损检测**
+项目描述：**
+- **电塔缺陷检测**
+项目描述：**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anshenLW/anshenLW.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
